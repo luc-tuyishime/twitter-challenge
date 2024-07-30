@@ -1,0 +1,9 @@
+export const CREATED = "created";
+export const SIGN_UP_CREATED = "Account created successfully";
+export const SIGNED_IN = "Logged in successfully";
+export const HASHTAG_CREATED = "Hashtag created successfully";
+export const UPDATED = "Updated";
+export const HASHTAG_DELETED = "Hashtag deleted";
+export const TWEET_CREATED = "Tweet created";
+export const TWEET_DELETED = "Tweet deleted";
+export const ETL_COMPLETED = "ETL Completed";

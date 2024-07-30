@@ -1,0 +1,9 @@
+export const BAD_REQUEST = "bad request";
+export const TOKEN_REQUIRED = "token required";
+export const EMAIL_NOT_FOUND = "Email not found";
+export const BAD_CREDENTIALS = "Bad credentials";
+export const HASHTAG_NOT_FOUND = "Hashtag not found";
+export const HASHTAGS_NOT_FOUND = "Hashtags not found";
+export const TWEET_NOT_FOUND = "Tweet not found";
+export const TWEETS_NOT_FOUND = "Tweets not found";
+export const RECOMMENDATIONS_NOT_FOUND = "Recommendation not found";
